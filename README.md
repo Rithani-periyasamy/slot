@@ -27,7 +27,7 @@ Add your course schedule using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-``
+```
 html>
     <head>
         <title>
@@ -105,8 +105,22 @@ html>
             <td>Fundamentals of Web Application Development (FWAD)</td>
         </tr>
         <tr>
+        <td>2.</td>
+            <td>19AI304</td>
+            <td>Fundamentals of C Programming</td>
+        </tr>
+        <tr>
+            <td>3.</td>
+            <td>19EN101</td>
+            <td>COMMUNICATIVE ENGLISH</td>
+        </tr>
+        </table>
+        </table>
+    </body>
+</html>
+        
 
-``
+```
 
 ## OUTPUT
 ![alt text](<Screenshot (17).png>)
